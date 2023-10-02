@@ -15,4 +15,6 @@ It contains parallel text translations for multiple languages with English as th
    - JSON
    - OS
 3. Import the dataset mentioned above.
+4. Run python functions.py to process the MASSIVE dataset and generate en-xx.xlsx files for each 
+language.
 
