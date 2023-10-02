@@ -15,12 +15,12 @@ It contains parallel text translations for multiple languages with English as th
    - JSON
    - OS
 3. Import the dataset mentioned above.
-4. Run python functions.py to process the MASSIVE dataset and generate en-xx.xlsx files for each 
+4. Run python [functions.py]() to process the MASSIVE dataset and generate en-xx.xlsx files for each 
 language.
 
 ## File Generation
 
-1. The script to split data and generate JSONL files is in main2.py.
+1. The script to split data and generate JSONL files is in [main2.py]().
 
 2. It takes the dataset and splits English, Swahili and German data into train/test/dev files.
 
@@ -45,8 +45,8 @@ After it is done, it prints out that the Excel files have been generated.
 Function to split and save data
 
 ## Usage
-1. Set up virtualenv and install dependencies
-2. Run python functions.py
-3. Run python main2.py
-4. Check the data folder for output files
+1. Set up virtualenv and install dependencies.
+2. Run python [functions.py]().
+3. Run python [main2.py]().
+4. Check the data folder for output files.
 
